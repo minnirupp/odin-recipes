@@ -1,6 +1,6 @@
 # odin-recipes
 
-This is the first project in The Odin Project where I will create my first website. In order to setup this project, I have learned about the command line and Git and used those skills to create this project in the terminal. These skills include:
+This is the first project in 'The Odin Project' Foundations Course. In order to setup this project, I had to lear about the command line and Git. I've used those skills to create this project through the terminal. Those skills include:
 
 - Terminal Commands to:
   - Navigate Directories
